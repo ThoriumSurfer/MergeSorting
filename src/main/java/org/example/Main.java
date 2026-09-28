@@ -45,7 +45,7 @@ public class Main {
         
         MergeSort(input, low, high);
         
-        System.out.println("The sorted array: " + Arrays.toString(input));
+        System.out.println("\nThe sorted array: " + Arrays.toString(input));
         
     }
     
