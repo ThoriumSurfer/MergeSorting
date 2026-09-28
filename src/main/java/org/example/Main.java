@@ -5,7 +5,9 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 /* Makail Casey, 9/28/2029, Cosc 214
-
+This program will use merge sorting to seperate an array into 2 halves, sort the 2 halves from greatest to
+lowest using MergeSort, then use the merge method to put them back together
+https://github.com/ThoriumSurfer/MergeSorting
  */
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
